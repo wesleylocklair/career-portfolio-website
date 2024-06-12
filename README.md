@@ -12,5 +12,10 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## Links
 Here is theseginated link to the webpage!
+ https://wesleylocklair.github.io/career-portfolio-website/
+
+ Here is a Screenshot of the website!
+![Screenshot (6)](https://github.com/wesleylocklair/career-portfolio-website/assets/171185367/5e1072a3-f8d7-4bbb-b25d-45b635088b46)
+
 
 
